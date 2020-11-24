@@ -4,7 +4,7 @@ Used neural networks to predict whether a person is having a heart disease or no
 
 
 
-#dataset
+# dataset
 
 The Heart disease data set consists of patient data from Cleveland, Hungary. The combined dataset consists of 14 features and 527 samples  The features used in here are,
 
